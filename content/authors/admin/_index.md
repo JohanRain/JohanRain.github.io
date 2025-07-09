@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 袁彧涵
+title: 袁 彧涵
 
 # Name pronunciation (optional)
-name_pronunciation: Johan Yuen
+name_pronunciation: Yu-han Yuan
 
 # Full name (for SEO)
-first_name: Yuen
-last_name: Johan
+first_name: Yu-han
+last_name: Yuan
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🔬
 
 # Is this the primary user of the site?
 superuser: true
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a graduate student at the Institute of Neuroscience, Chinese Academy of Sciences, where I focus on understanding how the nervous system integrates multisensory information to drive complex behaviors. My research primarily centers on sensory integration and behavioral mechanisms, with a particular interest in how the brain processes and combines information from different sensory modalities to produce adaptive responses.
