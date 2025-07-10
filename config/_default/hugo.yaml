@@ -13,7 +13,7 @@ baseURL: 'https://johanrain.github.io/'
 ############################
 
 defaultContentLanguage: en
-hasCJKLanguage: false
+hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
