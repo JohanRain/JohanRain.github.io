@@ -4,9 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
-title: Hugo Academic CV Theme
+title: Yuan Yu-han
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: 'https://johanrain.github.io/'
 
 ############################
 ## LANGUAGE
@@ -23,7 +23,7 @@ removePathAccents: true
 
 build:
   writeStats: true
-enableGitInfo: false
+enableGitInfo: true
 summaryLength: 30
 pagination:
   pagerSize: 10

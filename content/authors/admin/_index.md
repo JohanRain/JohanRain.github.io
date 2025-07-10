@@ -3,7 +3,7 @@
 title: 袁 彧涵
 
 # Name pronunciation (optional)
-name_pronunciation: Yu-han Yuan
+name_pronunciation: Yuan Yu-han
 
 # Full name (for SEO)
 first_name: Yu-han
